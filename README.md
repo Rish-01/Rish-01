@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishab</h1>
-<h3 align="center">I am interested in machine learning</h3>
+<h3 align="center">I am interested in machine learning and the math behind it</h3>
 <img align="right" alt="Coding" width="400" src="https://images.ctfassets.net/plii0v5gbc4s/2Z8bmd2uAUpvzZmdEzeeOj/8652c8b7d5c782d8e0311520ea1a65a0/machine-learning-ai-b2b.gif">
 
 
-- 🌱 I’m currently learning **Deep learning with Pytorch**
+- 🌱 I’m currently learning **more about Deep learning**
 
 - 📫 How to reach me **rishab2001rs@gmail.com**
 
