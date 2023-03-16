@@ -11,4 +11,4 @@
 
 - 📫 Reach out to me on **rishab2001rs@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rish-01&show_icons=true&locale=en" alt="rish-01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-beige-beta.vercel.app/api?username=rish-01&show_icons=true&locale=en" alt="rish-01" /></p>
