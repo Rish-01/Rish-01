@@ -1,14 +1,14 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
+# Hi there, I'm Rishab! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
-<div align="center">
-  <img  alt="Coding" width="400" src="https://blog.paperspace.com/content/images/2020/01/Intro-HELLO-FUTURE-1920x1080_v2.gif"> 
-</div>
+- 🚀 My interests include **Math** and **Technology**
 
-<h1 align="center">I'm Rishab</h1>
-<h3 align="center">I am interested in the math behind machine learning</h3>
+- 🌱 I’m currently implementing **Research papers in Deep learning**
 
-- 🌱 I’m currently learning **Deep learning architectures.**
+- 💻 Currently working on two projects
+  - [PyTorch-Siamese-CNN](https://github.com/Rish-01/PyTorch-Siamese-CNN)
+  - [PyTorch-Image-Captioning](https://github.com/Rish-01/PyTorch-Image-Captioning)
 
 - 📫 Reach out to me on **rishab2001rs@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-beige-beta.vercel.app/api?username=rish-01&show_icons=true&locale=en" alt="rish-01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-beige-beta.vercel.app/api?username=rish-01&show_icons=true&locale=en" width=50% alt="rish-01" />
+
