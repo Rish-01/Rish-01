@@ -2,11 +2,9 @@
 
 - 🚀 My interests include **Math** and **Technology**
 
-- 🌱 I’m currently implementing **Research papers in Deep learning**
+- 🌱 I’m currently implementing **Research papers** in **Deep learning**
 
-- 💻 Currently working on two projects
-  - [PyTorch-Siamese-CNN](https://github.com/Rish-01/PyTorch-Siamese-CNN)
-  - [PyTorch-Image-Captioning](https://github.com/Rish-01/PyTorch-Image-Captioning)
+- 💻 Currently working on [PyTorch-Siamese-CNN](https://github.com/Rish-01/PyTorch-Siamese-CNN)
 
 - 📫 Reach out to me on **rishab2001rs@gmail.com**
 
