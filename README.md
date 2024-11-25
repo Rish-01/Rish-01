@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently implementing **Research papers** in **Deep learning**
 
-- 💻 Currently working on [PyTorch-Siamese-CNN](https://github.com/Rish-01/PyTorch-Siamese-CNN)
-
-- 📫 Reach out to me on **rishab2001rs@gmail.com**
+- 📫 Reach out to me at **rishab2001rs@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-beige-beta.vercel.app/api?username=rish-01&show_icons=true&locale=en" width=50% alt="rish-01" />
 
